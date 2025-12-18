@@ -1,0 +1,12 @@
+portfolio:
+  name: Vanguard ISA
+  investment_horizon_years: 10
+  funds:
+    - name: LifeStrategy 80% Equity Fund - Accumulation
+      value: 4596.88
+    - name: Global Bond Index Fund - Hedged Accumulation
+      value: 519.78
+    - name: Japan Stock Index Fund - Accumulation
+      value: 581.41
+    - name: FTSE Developed Asia Pacific ex Japan UCITs ETF - Accumulating (VDPG)
+      value: 851.22
