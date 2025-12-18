@@ -24,6 +24,9 @@ ruff format .
 
 # Run pre-commit hooks manually
 pre-commit run --all-files
+
+# Run linting, type checks and pytest
+just check-test
 ```
 
 ### Running the Application
