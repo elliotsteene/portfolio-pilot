@@ -1,5 +1,10 @@
+from src.utils import initialise_portfolio
+
+
 def main():
-    print("Hello from isa-manager!")
+    portfolio = initialise_portfolio()
+
+    print(portfolio.model_dump())
 
 
 if __name__ == "__main__":
