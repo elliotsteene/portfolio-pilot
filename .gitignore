@@ -10,3 +10,4 @@ wheels/
 .venv
 
 thoughts/
+.ruff_cache
